@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    background:linear-gradient(to bottom right,rgba(246,129,174,100),rgba(66,254,242,100));
+}
+h1{
+    font-size: 60px;
+    color: blue;
+    font-family: 'PT Serif', serif;
+    font-weight: 600;
+}
+h2{
+    font-size:40px;
+    color: purple;
+    font-family: 'Lobster', cursive;
+}
+p{
+    font-size: 20px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding: 3px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
